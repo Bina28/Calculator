@@ -13,7 +13,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 142,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -35,7 +35,7 @@
               "RelativeDocumentMoniker": "..\\CalculatorLibrary\\CalculatorLibrary.cs",
               "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\GitHub\\Calculator\\CalculatorLibrary\\CalculatorLibrary.cs",
               "RelativeToolTip": "..\\CalculatorLibrary\\CalculatorLibrary.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEQAAAADAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T13:40:56.827Z",
               "EditorCaption": ""
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\GitHub\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T09:32:56.383Z",
               "EditorCaption": ""
